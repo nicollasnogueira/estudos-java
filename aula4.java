@@ -16,7 +16,7 @@ public class aula4 {
         System.out.println("Digite a nota3: ");
         double nota3 = entrada.nextDouble();
 
-        double media = (nota1 + nota2 + nota3 /3;
+        double media = (nota1 + nota2 + nota3) /3;
 
 
     if(media >=70 &&frequencia >=75){
